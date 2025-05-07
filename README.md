@@ -6,8 +6,8 @@ I love participating in hackathons, where I can push my skills, work with new te
 
 When I’m not coding, you’ll find me experimenting with AWS or diving into data visualization to make complex information more accessible and actionable.
 
-##👀 Check out some of my fun personal projects:
+## Check out some of my fun personal projects 👀 :
 CollageGenerator – A project that uses the Spotify API to create personalized collages based on your music taste!
 
-##📫 How to reach me:
+## How to reach me 📫:
 The best place to connect with me is through LinkedIn. Feel free to send me a message if you’re interested in collaborating or discussing cool tech ideas!
