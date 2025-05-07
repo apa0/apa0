@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Angie 👩🏻‍💻
 
-<!--
-**apa0/apa0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an aspiring Software Engineer and AI Enthusiast with a passion for building creative, data-driven solutions. Many of my projects (including my undergraduate research) are private, but I’m always eager to collaborate and learn. I thrive in environments where I can contribute to innovative tech, and I’m always excited to solve problems using Python, Java, and C++.
 
-Here are some ideas to get you started:
+I love participating in hackathons, where I can push my skills, work with new technologies, and build something impactful in a short amount of time. 🚀 One of my proudest moments was working on my CUHackit project, where we won Best Use of AWS! It was an amazing experience to build something innovative with AWS and a great team.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I’m not coding, you’ll find me experimenting with AWS or diving into data visualization to make complex information more accessible and actionable.
+
+👀 Check out some of my fun personal projects:
+CollageGenerator – A project that uses the Spotify API to create personalized collages based on your music taste!
+
+📫 How to reach me:
+The best place to connect with me is through LinkedIn. Feel free to send me a message if you’re interested in collaborating or discussing cool tech ideas!
