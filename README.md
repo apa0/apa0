@@ -15,4 +15,14 @@ A fun project that uses the Spotify API to create personalized music collages ba
 The best place to connect with me is through LinkedIn. Feel free to send me a message if you’re interested in collaborating or discussing cool tech ideas!
 
 ---
-![Angie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=apa0&show_icons=true&theme=material-palenight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true)
+### 📊 GitHub Stats & Activity  
+
+<div align="center">
+
+![Angie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=apa0&show_icons=true&theme=material-palenight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apa0&layout=compact&theme=material-palenight&hide_border=true&border_radius=12&langs_count=6)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=apa0&theme=material-palenight&hide_border=true&border_radius=12)
+
+</div>
