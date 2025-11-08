@@ -17,10 +17,9 @@ The best place to connect with me is through LinkedIn. Feel free to send me a me
 ---
 ### 📊 GitHub Stats & Activity  
 
-<div align="center"> 
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apa0&layout=compact&theme=material-palenight&hide_border=true&border_radius=12&langs_count=6)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=apa0&theme=material-palenight&hide_border=true&border_radius=12)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apa0&layout=compact&theme=material-palenight&hide_border=true&border_radius=12&langs_count=6" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apa0&theme=material-palenight&hide_border=true&border_radius=12" height="180em" />
 
 </div>
