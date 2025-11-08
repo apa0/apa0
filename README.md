@@ -16,4 +16,4 @@ The best place to connect with me is through LinkedIn. Feel free to send me a me
 
 ---
 📊 **GitHub Snapshot**
-![Angie’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=apa0&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apa0&layout=compact&theme=tokyonight)
