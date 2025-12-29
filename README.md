@@ -1,21 +1,20 @@
 ## Hi, I'm Angie 👩🏻‍💻
 
-The _best_ innovations combine creativity, empathy, and data, helping people connect, learn, and navigate the world more meaningfully.
+I'm a CS student @ Clemson Uni, who believes the best tech solves real problems and brings a little joy along the way. I love hackathons, creative problem-solving, and building things that actually matter to people.
 
-## Tech for Good 💡
-I love working on **tech-for-good** projects that tell a story and solve real-world problems. Hackathons are my favorite space for that: fast-paced, collaborative, and full of purpose. Some of my favorite projects include:
+## Things I've Built... 
 		
 **AeroGuard – NASA Space Apps Challenge “Global Impact” Winner** 🌍
-An AI-powered emergency response platform that uses NASA TEMPO satellite data to support communities during wildfire and air quality events.
+AI-powered emergency response using satellite data to help communities during wildfires and air quality crises.
 
 **My AI Advisor – CUHackit “Best Use of AWS” Winner** ☁️
-A personal AI assistant that integrates multiple APIs to deliver data-driven insights and guidance. You can check out the project on my **[Devpost](https://devpost.com/software/my-ai-advisor)**.
+A personal AI assistant pulling from multiple APIs for smarter, data-driven guidance. **[Check it out on Devpost](https://devpost.com/software/my-ai-advisor)**.
 
 **CollageGenerator**🎵
-A fun project that uses the Spotify API to create personalized music collages based on your listening habits — because tech should also bring a little joy.
+A Spotify API project that turns your music taste into personalized collages — because tech should be fun too.
 
-## How to reach me 📫:
-The best place to connect with me is through LinkedIn. Feel free to send me a message if you’re interested in collaborating or discussing cool tech ideas!
+## Let's Connect 📫:
+I'm always up for chatting about cool projects or collaborating on something new. Find me on LinkedIn!
 
 ---
 ### 📊 GitHub Stats & Activity  
