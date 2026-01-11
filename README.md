@@ -15,17 +15,3 @@ A Spotify API project that turns your music taste into personalized collages —
 
 ## Let's Connect 📫:
 I'm always up for chatting about cool projects or collaborating on something new. Find me on LinkedIn!
-
----
-### 📊 GitHub Stats & Activity  
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apa0&layout=compact&theme=material-palenight&hide_border=true&border_radius=12&langs_count=6" height="180em" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=apa0&theme=material-palenight&hide_border=true&border_radius=12" height="180em" />
-    </td>
-  </tr>
-</table>
